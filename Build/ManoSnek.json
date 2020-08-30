@@ -1,7 +1,7 @@
 {
 "companyName": "Ferret Games Inc",
 "productName": "ManoSnek",
-"productVersion": "0.9",
+"productVersion": "1.0",
 "dataUrl": "ManoSnek.data.unityweb",
 "wasmCodeUrl": "ManoSnek.wasm.code.unityweb",
 "wasmFrameworkUrl": "ManoSnek.wasm.framework.unityweb",
