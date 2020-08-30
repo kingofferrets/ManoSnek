@@ -1,0 +1,3 @@
+Kingofferrets - Core programming and development, some assets
+Ice - game visual assets
+Pizzafari - game music
